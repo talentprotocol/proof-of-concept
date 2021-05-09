@@ -1863,8 +1863,7 @@ section {
   display: inline-block;
 }
 
-.blog .entry .entry-footer .tags li + li::before {
-  padding-right: 6px;
+.blog .entry .entry-footer .tags li:not(:last-child)::after {
   color: #6c757d;
   content: ",";
 }
