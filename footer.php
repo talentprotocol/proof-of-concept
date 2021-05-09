@@ -27,7 +27,7 @@
             <h4>Contact Us</h4>
             <p>
               PORTUGAL <br>
-              <strong>Email:</strong> contact@polkatalent.com<br>
+              <strong>Email:</strong> <a href="mailto:contact@polkatalent.com">contact@polkatalent.com</a><br>
             </p>
 
           </div>
