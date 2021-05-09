@@ -235,7 +235,7 @@ section {
   color: #5751FC;
 }
 
-.navbar .getstarted {
+.navbar .invest {
   background: #5751FC;
   padding: 8px 20px;
   margin-left: 15px;
@@ -243,7 +243,7 @@ section {
   color: #fff;
 }
 
-.navbar .getstarted:hover {
+.navbar .invest:hover {
   color: #fff;
   background: #5969f3;
   text-decoration: underline;
