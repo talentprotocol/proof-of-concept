@@ -72,13 +72,14 @@
                           <li class="d-flex align-items-center"><i class="bi bi-person"></i>CTO</li>
                         </ul>
                       </div>
+                      <p>Developed the World Record Game "Kill The Duck". Serial tech entrepreneur with +30M software users worldwide. Founder of SHARKCODERS, the 1st network of tech schools in Portugal, teaching coding skills, creating games, apps, robotics for Kids & Teens.</p>
+                      <div class="social-links mt-3">
+                        <a target="self" href="https://twitter.com/andreasvilela" class="twitter"><i class="bi bi-twitter"></i></a>
+                      </div>
                     </div>
               </div>
 
               <div class="entry-content">
-                <p>
-                  Developed the World Record Game "Kill The Duck". Serial tech entrepreneur with +30M software users worldwide. Founder of SHARKCODERS, the 1st network of tech schools in Portugal, teaching coding skills, creating games, apps, robotics for Kids & Teens.
-                </p>
 
                 
                 <blockquote>
