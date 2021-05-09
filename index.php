@@ -183,9 +183,8 @@
                 <h4>Pedro Oliveira</h4>
                 <span style="font-size: 1.3rem; color:#5751FC ">CEO</span>
                 <p>HR Tech innovator whose career mission is to build products that allow individuals to fully own their careers. Founder at Landing.Jobs - the biggest tech recruitment marketplace in Portugal. Selected by HR Weekly as a top 100 HR Tech expert.</p>
-                <a class="getstarted" href="coreteam-pedro.php"><b>INVEST</b></a>
+                <a href="coreteam-pedro.php"><b>INVEST</b></a>
               </div>
-              
             </div>
           </div>
 
@@ -201,8 +200,7 @@
                 <h4>Andreas Vilela</h4>
                 <span style="font-size: 1.3rem; color:#5751FC ">CTO</span>
                 <p>Developed the World Record Game “Kill The Duck”. Serial tech entrepreneur with +30M software users worldwide. Founder of SHARKCODERS, the 1st network of tech schools in Portugal, teaching coding skills, creating games, apps, robotics for Kids & Teens.</p>
-                <a class="getstarted" href="coreteam-andreas.php"><b>INVEST</b></a>
-
+                <a href="coreteam-andreas.php"><b>INVEST</b></a>
               </div>
             </div>
           </div>
@@ -220,8 +218,7 @@
                 <h4>Filipe Macedo</h4>
                 <span style="font-size: 1.3rem; color:#5751FC ">CMO</span>
                 <p>A computer engineer by training and a creative strategist by nature. 10+ years of marketing experience building progressive brands and engaging communities for Nike, Nestlé, L’Oréal and ActivoBank - Europe's Best Bank in Social Media in 2012.</p>
-                <a class="getstarted" href="coreteam-filipe.php"><b>INVEST</b></a>
-
+                <a href="coreteam-filipe.php"><b>INVEST</b></a>
               </div>
             </div>
           </div>

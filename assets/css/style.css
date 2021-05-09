@@ -1464,6 +1464,18 @@ section {
   opacity: 1;
 }
 
+.team .member .member-info a {
+  background: #5751FC;
+  padding: 8px 20px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.team .member .member-info a:hover {
+  color: #fff;
+  background: #5969f3;
+}
+
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
