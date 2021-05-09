@@ -91,7 +91,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/values-2.png" class="img-fluid" alt="">
               <h3>FOR TALENT</h3>
-              <p>Polka<b>Talent</b> enables all types of growth-oriented individuals to <b><span style="color:#5751FC;"> raise capital and build a community</span></b>, by creating their own career token.</p>
+              <p>Polkatalent enables all types of growth-oriented individuals to <b><span style="color:#5751FC;"> raise capital and build a community</span></b>, by creating their own career token.</p>
             </div>
           </div>
 
@@ -99,7 +99,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="400">
               <img src="assets/img/values-1.png" class="img-fluid" alt="">
               <h3>FOR INVESTORS</h3>
-              <p>Polka<b>Talent</b> enables all types of investors to <b><span style="color:#5751FC;"> sponsor people they believe in </span></b>, and be rewarded when they succeed.</p>
+              <p>Polkatalent enables all types of investors to <b><span style="color:#5751FC;"> sponsor people they believe in </span></b>, and be rewarded when they succeed.</p>
             </div>
           </div>
 
