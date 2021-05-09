@@ -11,7 +11,7 @@
             </a>
             <p>Unlocking the potential of every career.</p>
             <div class="social-links mt-3">
-              <a href="https://twitter.com/polkatalent" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a target="self" href="https://twitter.com/polkatalent" class="twitter"><i class="bi bi-twitter"></i></a>
             </div>
           </div>
 
