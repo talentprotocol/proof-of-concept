@@ -72,19 +72,18 @@
                           <li class="d-flex align-items-center"><i class="bi bi-person"></i>CMO</li>
                         </ul>
                       </div>
-                    </div>
+                      <p>A computer engineer by training and a creative strategist by nature. 10+ years of marketing experience building progressive brands and engaging communities for Nike, Nestlé, L’Oréal and ActivoBank - Europe's Best Bank in Social Media in 2012.</p>
+                      <div class="social-links mt-3">
+                        <a target="self" href="https://twitter.com/filmacedo" class="twitter"><i class="bi bi-twitter"></i></a>
+                      </div>
+                  </div>
               </div>
               
               <div class="entry-content">
-                <p>
-A computer engineer by training and a creative strategist by nature. 10+ years of marketing experience building progressive brands and engaging communities for Nike, Nestlé, L’Oréal and ActivoBank - Europe's Best Bank in Social Media in 2012.
-                </p>
-
                 
                 <blockquote>
                   <p>
-                    I believe in a talent economy, not a job economy. We want to be the CEOs of our careers, to control our time and dictate our future. I was already working on this problem individually, for my own career, but what if we could help solve it for everyone?
-
+                  Hello, I'm Filipe and I believe it's time to move from a job economy to a talent economy. I’m raising $10,000 in return for 1M of my $FMAC career tokens (20% of total supply). This amount will help fund the initial development of Polkatalent, including my salary and other costs.
                     </p>
                 </blockquote>
 
@@ -97,9 +96,9 @@ A computer engineer by training and a creative strategist by nature. 10+ years o
                 <i class="bi bi-tags"></i>
                 <ul class="tags">
                   <li><a href="#">Co-Founder</a></li>
-                  <li><a href="#">Creative strategist</a></li>
-                  <li><a href="#">Marketing experience</a></li>
-                  <li><a href="#">Community expert</a></li>
+                  <li><a href="#">Marketing</a></li>
+                  <li><a href="#">Strategy</a></li>
+                  <li><a href="#">Community</a></li>
                 </ul>
               </div>
 
