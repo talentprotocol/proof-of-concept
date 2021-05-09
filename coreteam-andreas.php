@@ -41,7 +41,7 @@
 
         <ol>
           <li><a href="index.php">HOME</a></li>
-          <li>TEAM</li>
+          <li><a href="index.php#team">TEAM</a></li>
         </ol>
         <h2>ANDREAS VILELA</h2>
 
