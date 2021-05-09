@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Polka Talent</title>
+  <title>PolkaTalent</title>
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -165,7 +165,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>Polka Talent</h2>
+          <h2>PolkaTalent</h2>
           <p>CORE TEAM</p>
         </header>
 
