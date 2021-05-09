@@ -81,7 +81,7 @@
 
       <div class="container" data-aos="fade-up">
 
-        <header class="section-header">
+        <header class="section-header sub-title">
           <p>PROPOSITION</p>
         </header>
 
@@ -115,7 +115,7 @@
 
       <div class="container" data-aos="fade-up">
 
-        <header class="section-header">
+        <header class="section-header sub-title">
           <p>WHY WE ARE DIFFERENT</p>
         </header>
 
@@ -165,12 +165,12 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>PolkaTalent</h2>
-          <p>CORE TEAM</p>
+          <h2>Polkatalent</h2>
+          <p class="sub-title">CORE TEAM</p>
         </header>
 
         <div class="row gy-4">
-
+          <p>Investing in early-stage startups has always been mostly about investing in the founders themselves. This is why Polkatalent’s founding members are making 20% of their career tokens available for early investment. These are the first 3 career tokens ever created.</p>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
