@@ -246,7 +246,6 @@ section {
 .navbar .invest:hover {
   color: #fff;
   background: #5969f3;
-  text-decoration: underline;
 }
 
 .navbar .dropdown ul {
@@ -1482,7 +1481,6 @@ section {
 .team .member .member-info a:hover {
   color: #fff;
   background: #5969f3;
-  text-decoration: underline;
 }
 
 /*--------------------------------------------------------------
