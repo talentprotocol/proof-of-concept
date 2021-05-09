@@ -11,7 +11,7 @@
           <li><a class="nav-link scrollto active" href="index.php#hero">HOME</a></li>
           <li><a class="nav-link scrollto" href="index.php#about">ABOUT</a></li>
           <li><a class="nav-link scrollto" href="index.php#team">TEAM</a></li>
-          <li><a class="getstarted scrollto" href="#team">GET STARTED</a></li>
+          <li><a class="getstarted scrollto" href="index.php#team">GET STARTED</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>

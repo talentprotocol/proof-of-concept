@@ -221,7 +221,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 10px 15px 10px 15px;
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
@@ -236,14 +236,14 @@ section {
   margin-left: 5px;
 }
 
-.navbar a:hover, .navbar .active, .navbar li:hover > a {
+.navbar a:hover, .navbar .active, .navbar li:hover > a:not(:last-child) {
   color: #5751FC;
 }
 
 .navbar .getstarted {
   background: #5751FC;
   padding: 8px 20px;
-  margin-left: 30px;
+  margin-left: 15px;
   border-radius: 4px;
   color: #fff;
 }
@@ -285,7 +285,7 @@ section {
   font-size: 12px;
 }
 
-.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
+.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a:not(:last-child) {
   color: #5751FC;
 }
 
