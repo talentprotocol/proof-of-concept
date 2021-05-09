@@ -36,7 +36,7 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Unlocking the potential of every career.</h1>
-          <p data-aos="fade-up">Polkatalent is a new type of career marketplace - powered by blockchain - that lets you invest in talented people and be rewarded when they succeed. </p>
+          <p class="mt-3 hero-text"data-aos="fade-up">Polkatalent is a new type of career marketplace that lets you invest in talented people and be rewarded when they succeed - powered by blockchain.</p>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
           <img src="assets/img/hero-img.png" class="img-fluid" alt="">

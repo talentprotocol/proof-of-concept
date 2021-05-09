@@ -469,6 +469,10 @@ section {
   text-align: right;
 }
 
+.hero .hero-text {
+  font-size: 1.1rem;
+}
+
 @media (min-width: 1024px) {
   .hero {
     background-attachment: fixed;
