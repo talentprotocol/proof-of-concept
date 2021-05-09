@@ -1,2 +1,2 @@
 # proof-of-concept
-PolkaTalent proof of concept website 
+Polkatalent proof of concept website 

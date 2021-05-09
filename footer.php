@@ -7,7 +7,7 @@
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="index.php" class="logo d-flex align-items-center">
               <img src="assets/img/logo.png" alt="">
-              <span>PolkaTalent</span>
+              <span>Polkatalent</span>
             </a>
             <p>Unlocking the potential of every career.</p>
             <div class="social-links mt-3">
@@ -38,7 +38,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>PolkaTalent</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Polkatalent</span></strong>. All Rights Reserved
       </div>
       
     </div>
