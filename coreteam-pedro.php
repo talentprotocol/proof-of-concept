@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Polka Talent | Pedro</title>
+  <title>Polkatalent | Pedro</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -41,7 +41,7 @@
 
         <ol>
           <li><a href="index.php">HOME</a></li>
-          <li>TEAM</li>
+          <li><a href="index.php#team">TEAM</a></li>
         </ol>
         <h2>PEDRO OLIVEIRA</h2>
 
@@ -73,25 +73,21 @@
                           <li class="d-flex align-items-center"><i class="bi bi-person"></i>CEO</li>
                         </ul>
                       </div>
+                      <p>HR Tech innovator whose career mission is to build products that allow individuals to fully own their careers. Founder at Landing.Jobs - the biggest tech recruitment marketplace in Portugal. Selected by HR Weekly as a top 100 HR Tech expert.</p>
+                      <div class="social-links mt-3">
+                        <a target="self" href="https://twitter.com/pcbo" class="twitter"><i class="bi bi-twitter"></i></a>
+                      </div>
                     </div>
               </div>
 
 
 
               <div class="entry-content">
-                <p>
-                  HR Tech innovator whose career mission is to build products that allow individuals to fully own their careers. Founder at Landing.Jobs - the biggest tech recruitment marketplace in Portugal. Selected by HR Weekly as a top 100 HR Tech expert.
-                </p>
-
-                
                 <blockquote>
                   <p>
                     I always wanted to make career investment available for the general public and not just in the hands of a small group (eg. football agents), just didn't have the chance to meet Blockchain before :) I believe that tokenizing careers is going to be revolutionary for the HR Tech industry and making sure that happens is my career goal.
                   </p>
                 </blockquote>
-
-
-
               </div>
 
               <div class="entry-footer">

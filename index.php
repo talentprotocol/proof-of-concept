@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Polka Talent</title>
+  <title>Polkatalent</title>
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -36,7 +36,7 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Unlocking the potential of every career.</h1>
-          <p data-aos="fade-up">Polkatalent is a new type of career marketplace - powered by blockchain - that lets you invest in talented people and be rewarded when they succeed. </p>
+          <p class="mt-3 hero-text"data-aos="fade-up">Polkatalent is a new type of career marketplace that lets you invest in talented people and be rewarded when they succeed - powered by blockchain.</p>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
           <img src="assets/img/hero-img.png" class="img-fluid" alt="">
@@ -81,7 +81,7 @@
 
       <div class="container" data-aos="fade-up">
 
-        <header class="section-header">
+        <header class="section-header sub-title">
           <p>PROPOSITION</p>
         </header>
 
@@ -91,7 +91,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/values-2.png" class="img-fluid" alt="">
               <h3>FOR TALENT</h3>
-              <p>Polka<b>Talent</b> enables all types of growth-oriented individuals to <b><span style="color:#5751FC;"> raise capital and build a community</span></b>, by creating their own career token.</p>
+              <p>Polkatalent enables all types of growth-oriented individuals to <b><span style="color:#5751FC;"> raise capital and build a community</span></b>, by creating their own career token.</p>
             </div>
           </div>
 
@@ -99,7 +99,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="400">
               <img src="assets/img/values-1.png" class="img-fluid" alt="">
               <h3>FOR INVESTORS</h3>
-              <p>Polka<b>Talent</b> enables all types of investors to <b><span style="color:#5751FC;"> sponsor people they believe in </span></b>, and be rewarded when they succeed.</p>
+              <p>Polkatalent enables all types of investors to <b><span style="color:#5751FC;"> sponsor people they believe in </span></b>, and be rewarded when they succeed.</p>
             </div>
           </div>
 
@@ -115,7 +115,7 @@
 
       <div class="container" data-aos="fade-up">
 
-        <header class="section-header">
+        <header class="section-header sub-title">
           <p>WHY WE ARE DIFFERENT</p>
         </header>
 
@@ -165,12 +165,12 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>Polka Talent</h2>
-          <p>CORE TEAM</p>
+          <h2>Polkatalent</h2>
+          <p class="sub-title">CORE TEAM</p>
         </header>
 
         <div class="row gy-4">
-
+          <p>Investing in early-stage startups has always been mostly about investing in the founders themselves. This is why Polkatalent’s founding members are making 20% of their career tokens available for early investment. These are the first 3 career tokens ever created.</p>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
@@ -183,9 +183,8 @@
                 <h4>Pedro Oliveira</h4>
                 <span style="font-size: 1.3rem; color:#5751FC ">CEO</span>
                 <p>HR Tech innovator whose career mission is to build products that allow individuals to fully own their careers. Founder at Landing.Jobs - the biggest tech recruitment marketplace in Portugal. Selected by HR Weekly as a top 100 HR Tech expert.</p>
-                <a class="getstarted" href="coreteam-pedro.php"><b>INVEST</b></a>
+                <a href="coreteam-pedro.php"><b>INVEST</b></a>
               </div>
-              
             </div>
           </div>
 
@@ -201,8 +200,7 @@
                 <h4>Andreas Vilela</h4>
                 <span style="font-size: 1.3rem; color:#5751FC ">CTO</span>
                 <p>Developed the World Record Game “Kill The Duck”. Serial tech entrepreneur with +30M software users worldwide. Founder of SHARKCODERS, the 1st network of tech schools in Portugal, teaching coding skills, creating games, apps, robotics for Kids & Teens.</p>
-                <a class="getstarted" href="coreteam-andreas.php"><b>INVEST</b></a>
-
+                <a href="coreteam-andreas.php"><b>INVEST</b></a>
               </div>
             </div>
           </div>
@@ -220,8 +218,7 @@
                 <h4>Filipe Macedo</h4>
                 <span style="font-size: 1.3rem; color:#5751FC ">CMO</span>
                 <p>A computer engineer by training and a creative strategist by nature. 10+ years of marketing experience building progressive brands and engaging communities for Nike, Nestlé, L’Oréal and ActivoBank - Europe's Best Bank in Social Media in 2012.</p>
-                <a class="getstarted" href="coreteam-filipe.php"><b>INVEST</b></a>
-
+                <a href="coreteam-filipe.php"><b>INVEST</b></a>
               </div>
             </div>
           </div>

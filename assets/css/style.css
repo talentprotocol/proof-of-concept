@@ -221,7 +221,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 10px 15px 10px 15px;
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
@@ -236,19 +236,19 @@ section {
   margin-left: 5px;
 }
 
-.navbar a:hover, .navbar .active, .navbar li:hover > a {
+.navbar a:hover, .navbar .active, .navbar li:hover > a:not(:last-child) {
   color: #5751FC;
 }
 
-.navbar .getstarted {
+.navbar .invest {
   background: #5751FC;
   padding: 8px 20px;
-  margin-left: 30px;
+  margin-left: 15px;
   border-radius: 4px;
   color: #fff;
 }
 
-.navbar .getstarted:hover {
+.navbar .invest:hover {
   color: #fff;
   background: #5969f3;
 }
@@ -284,7 +284,7 @@ section {
   font-size: 12px;
 }
 
-.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
+.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a:not(:last-child) {
   color: #5751FC;
 }
 
@@ -473,6 +473,10 @@ section {
   text-align: right;
 }
 
+.hero .hero-text {
+  font-size: 1.1rem;
+}
+
 @media (min-width: 1024px) {
   .hero {
     background-attachment: fixed;
@@ -578,7 +582,7 @@ section {
 .values .box img {
   padding: 30px 50px;
   transition: 0.5s;
-  transform: scale(1.1);
+  transform: scale(0.9);
 }
 
 .values .box h3 {
@@ -586,6 +590,10 @@ section {
   color: #283B57;
   font-weight: 700;
   margin-bottom: 18px;
+}
+
+.values .box p {
+  font-size: 1.1rem;
 }
 
 .values .box:hover {
@@ -674,6 +682,10 @@ section {
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 10px;
+}
+
+.features img {
+  transform: scale(0.8);
 }
 
 @media (max-width: 768px) {
@@ -1464,6 +1476,18 @@ section {
   opacity: 1;
 }
 
+.team .member .member-info a {
+  background: #5751FC;
+  padding: 8px 20px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.team .member .member-info a:hover {
+  color: #fff;
+  background: #5969f3;
+}
+
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
@@ -1849,8 +1873,7 @@ section {
   display: inline-block;
 }
 
-.blog .entry .entry-footer .tags li + li::before {
-  padding-right: 6px;
+.blog .entry .entry-footer .tags li:not(:last-child)::after {
   color: #6c757d;
   content: ",";
 }
