@@ -25,7 +25,7 @@ if (isset($_GET['id']))
         $teamMemberTicker = "\$AVIL";
     }
     else if ($id == "3") {
-        $receiverAddress = "0xD8915c2C3bbd7A620464b75E47E0111beEA12071";
+        $receiverAddress = "0x5f23c81d20d15b1d6504add2599301cd668cec63";
         $teamMemberName = "Filipe";
         $teamMemberTicker = "\$FMAC";
     }
