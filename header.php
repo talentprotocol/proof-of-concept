@@ -3,7 +3,7 @@
 
       <a href="index.php" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
-        <span>Polkatalent</span>
+        <span>Talent Protocol</span>
       </a>
 
       <nav id="navbar" class="navbar">

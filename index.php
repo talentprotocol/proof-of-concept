@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Polkatalent</title>
+  <title>Talent Protocol</title>
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -36,7 +36,7 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Unlocking the potential of every career.</h1>
-          <p class="mt-3 hero-text"data-aos="fade-up">Polkatalent is a new type of career marketplace that lets you invest in talented people and be rewarded when they succeed - powered by blockchain.</p>
+          <p class="mt-3 hero-text"data-aos="fade-up">Talent Protocol is a new type of career marketplace that lets you invest in talented people and be rewarded when they succeed - powered by blockchain.</p>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
           <img src="assets/img/hero-img.png" class="img-fluid" alt="">
@@ -54,7 +54,7 @@
 
           <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <div class="content">
-              <h3>WHY POLKATALENT</h3>
+              <h3>WHY TALENT PROTOCOL</h3>
               <h2>How much is a great career worth?</h2>
               <p>
                 In the past, the typical way of monetizing a career was either by renting your time to an employer or by starting your own company. Today, with blockchain technology, we can start monetizing what has never been monetized before: the future potential of a career.
@@ -91,7 +91,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/values-2.png" class="img-fluid" alt="">
               <h3>FOR TALENT</h3>
-              <p>Polkatalent enables all types of growth-oriented individuals to <b><span style="color:#5751FC;"> raise capital and build a community</span></b>, by creating their own career token.</p>
+              <p>Talent Protocol enables all types of growth-oriented individuals to <b><span style="color:#5751FC;"> raise capital and build a community</span></b>, by creating their own career token.</p>
             </div>
           </div>
 
@@ -99,7 +99,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="400">
               <img src="assets/img/values-1.png" class="img-fluid" alt="">
               <h3>FOR INVESTORS</h3>
-              <p>Polkatalent enables all types of investors to <b><span style="color:#5751FC;"> sponsor people they believe in </span></b>, and be rewarded when they succeed.</p>
+              <p>Talent Protocol enables all types of investors to <b><span style="color:#5751FC;"> sponsor people they believe in </span></b>, and be rewarded when they succeed.</p>
             </div>
           </div>
 
@@ -165,12 +165,12 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>Polkatalent</h2>
+          <h2>Talent Protocol</h2>
           <p class="sub-title">CORE TEAM</p>
         </header>
 
         <div class="row gy-4">
-          <p>Investing in early-stage startups has always been mostly about investing in the founders themselves. This is why Polkatalent’s founding members are making 20% of their career tokens available for early investment. These are the first 3 career tokens ever created.</p>
+          <p>Investing in early-stage startups has always been mostly about investing in the founders themselves. This is why Talent Protocol's founding members are making 20% of their career tokens available for early investment. These are the first 3 career tokens ever created.</p>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">

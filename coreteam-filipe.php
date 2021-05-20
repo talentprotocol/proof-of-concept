@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Polkatalent | Filipe</title>
+  <title>Talent Protocol | Filipe</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -83,7 +83,7 @@
                 
                 <blockquote>
                   <p>
-                  Hello, I'm Filipe and I believe it's time to move from a job economy to a talent economy. I’m raising $10,000 in return for 1M of my $FMAC career tokens (20% of total supply). This amount will help fund the initial development of Polkatalent, including my salary and other costs.
+                  Hello, I'm Filipe and I believe it's time to move from a job economy to a talent economy. I’m raising $10,000 in return for 1M of my $FMAC career tokens (20% of total supply). This amount will help fund the initial development of Talent Protocol, including my salary and other costs.
                     </p>
                 </blockquote>
 
