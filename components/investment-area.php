@@ -59,7 +59,7 @@ if (isset($_GET['id']))
             <?php  include "components/web3-wallet.php"; ?>
         </div>
 
-        <p>If you decide to invest in <?php echo $teamMemberName; ?>, your funds will be transferred to his personal wallet. But, as soon as the Polkatalent launches publicly, your initial investment will be automatically transferred to the platform, and you will maintain the exact same share of tokens which, by then, will likely be worth exponentially more. At that point you are free to cash out your tokens at market price or to hold them for the long run.</p>
+        <p>If you decide to invest in <?php echo $teamMemberName; ?>, your funds will be transferred to his personal wallet. But, as soon as the Talent Protocol launches publicly, your initial investment will be automatically transferred to the platform, and you will maintain the exact same share of tokens which, by then, will likely be worth exponentially more. At that point you are free to cash out your tokens at market price or to hold them for the long run.</p>
         <h3>Token Benefits and Uses</h3>
         <p>By buying and holding <?php echo $teamMemberTicker; ?> you are supporting this talent and participating in their career economy. As a <?php echo $teamMemberTicker; ?> holder you are eligible to the following benefits or rewards:</p>
         <ol>

@@ -7,11 +7,11 @@
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="index.php" class="logo d-flex align-items-center">
               <img src="assets/img/logo.png" alt="">
-              <span>Polkatalent</span>
+              <span>Talent Protocol</span>
             </a>
             <p>Unlocking the potential of every career.</p>
             <div class="social-links mt-3">
-              <a target="self" href="https://twitter.com/polkatalent" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a target="self" href="https://twitter.com/talentprotocol" class="twitter"><i class="bi bi-twitter"></i></a>
             </div>
           </div>
 
@@ -27,7 +27,7 @@
             <h4>Contact Us</h4>
             <p>
               PORTUGAL <br>
-              <strong>Email:</strong> <a href="mailto:contact@polkatalent.com">contact@polkatalent.com</a><br>
+              <strong>Email:</strong> <a href="mailto:contact@talentprotocol.com">contact@talentprotocol.com</a><br>
             </p>
 
           </div>
@@ -38,7 +38,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Polkatalent</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Talent Protocol</span></strong>. All Rights Reserved
       </div>
       
     </div>

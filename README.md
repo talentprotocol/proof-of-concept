@@ -1,2 +1,2 @@
 # proof-of-concept
-Polkatalent proof of concept website 
+Talent Protocol proof of concept website 
